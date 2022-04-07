@@ -1,0 +1,34 @@
+.home{
+    margin-top: 10%;
+    width: 100%;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:20px;
+   
+}
+.my-name{
+    text-transform: capitalize;
+}
+.span-name{
+    color:rgb(43, 9, 136);
+   font-weight: bolder;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}   
+.pro-title{
+   margin-top: 10%;
+    text-transform: capitalize;
+
+}
+.card-list{
+    
+   
+    width: 60%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}

@@ -9,18 +9,26 @@ function About() {
       </div>
       <div className="about-me">
         <p className="intro">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet
-          similique molestiae vel corrupti soluta architecto, inventore numquam
-          quo amet assumenda molestias quasi adipisci ipsum sint praesentium
-          illo commodi atque nesciunt consequatur. Libero, repellendus. Eligendi
-          nostrum ipsa sapiente molestias, dicta incidunt iusto praesentium quia
-          id fugit sint consequatur recusandae vitae sed, repellendus sequi vero
-          natus, neque excepturi voluptas veniam est aut beatae! Earum tempora
-          cum itaque ipsum impedit aut nesciunt accusamus voluptatum iusto
-          fugiat, modi qui exercitationem magnam nostrum ut repellendus debitis
-          dolorem quos? Necessitatibus, corporis! Nihil iste architecto officia
-          vero tempore aut, aliquam natus odio quam, nesciunt, illum veritatis
-          animi!
+          <span className="thought">
+            <b>
+              <i>
+                A highly motivated and dedicated computer science student
+                looking for a challenging position to utilize my software skills
+                for the growth of the organization
+              </i>
+            </b>
+          </span>
+          <br />
+          <b>
+            <i>
+              Hello Guys,
+              <br />I am Piyush Garg a computer science engineering student .I
+              am from bari dholpur rajasthan coming to skills i know java python
+              and javascript in a programming languages i have also learn full
+              stack web developement and i also have knowledge of data structure
+              and algos
+            </i>
+          </b>
         </p>
       </div>
     </div>

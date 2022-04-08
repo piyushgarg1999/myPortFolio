@@ -21,14 +21,6 @@
     text-transform: capitalize;
 
 }
-.card-list{
-    
-   
+.Card-div{
     width: 60%;
-    margin-top: 2%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    
 }

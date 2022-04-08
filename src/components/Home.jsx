@@ -2,6 +2,7 @@ import React from "react";
 import "./Home.css";
 import Project_data from "./Project_data";
 import Project_Card from "./Project_Card";
+import Card_list from "./Card_list";
 function Home() {
   return (
     <div className="home">
@@ -15,18 +16,8 @@ function Home() {
       </div>
 
       <h2 className="pro-title">This is all I Have</h2>
-
-      <div className="card-list">
-        {Project_data.map((data) => {
-          return (
-            <Project_Card
-              key={data.id}
-              title={data.title}
-              technology={data.Technology_Frameworh}
-              homepage={data.homepage}
-            />
-          );
-        })}
+      <div className="Card-div">
+        <Card_list />
       </div>
     </div>
   );
